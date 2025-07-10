@@ -27,5 +27,3 @@ if st.button("Clean Emails"):
         mime='text/plain'
     )
 
-# & "C:\Users\hp\AppData\Local\Microsoft\WindowsApps\python3.11.exe" -m streamlit run app.py
-# & "C:\Users\hp\AppData\Local\Microsoft\WindowsApps\python3.11.exe" -m streamlit run app.py
